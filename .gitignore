@@ -1,0 +1,8 @@
+.env
+.vscode
+__pycache__
+airflow.cfg
+airflow.db
+datalake/bronze/*
+datalake/silver/*
+datalake/gold/*
